@@ -1,0 +1,2 @@
+# lql-tech
+smallpart
